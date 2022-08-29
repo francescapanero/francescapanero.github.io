@@ -3,7 +3,7 @@ title: "Bayesian nonparametric disclosure risk assessment"
 collection: publications
 permalink: /publication/bnp_dislosure
 authors: 'Stefano Favaro, Francesca Panero, Tommaso Rigon'
-excerpt: 'In this paper we propose a Bayesian nonparametric estimator of disclosure risk.'
+excerpt: 'In this paper we propose a Bayesian nonparametric estimator of disclosure risk. We find the posterior distribution of it, which is pretty cool.'
 date: 2021-12-01
 venue: 'Electronic Journal of Statistics'
 link: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-2/Bayesian-nonparametric-disclosure-risk-assessment/10.1214/21-EJS1933.full
