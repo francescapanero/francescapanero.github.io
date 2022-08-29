@@ -1,11 +1,11 @@
 ---
 title: "Achieving Fairness with a Simple Ridge Penalty"
 collection: publications
-permalink: https://arxiv.org/abs/2105.13817
+permalink: https://arxiv.org/abs/2105.13817.pdf
 excerpt: 'Marco Scutari, Francesca Panero, Manuel Proissl. In this paper we present a general frame- work for estimating regression models subject to a user-defined level of fairness.'
 date: 2021-04-01
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/abs/2105.13817'
+paperurl: 'https://arxiv.org/abs/2105.13817.pdf'
 ---
 
 [See paper here](https://arxiv.org/pdf/2105.13817.pdf)
