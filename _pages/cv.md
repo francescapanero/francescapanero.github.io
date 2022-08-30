@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<u><a href="https://francescapanero.github.io/files/Academic CV Francesca Panero.pdf">See it here.</a></u>
+See it <u><a href="https://francescapanero.github.io/files/Academic CV Francesca Panero.pdf">here</a></u>. Updated 08/2022.
 <br/>
