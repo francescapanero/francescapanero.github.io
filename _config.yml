@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Francesca Panero / My 2 cents"
 title_separator          : "-"
 name                     : &name "Francesca Panero"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Francesca Panero"
   avatar           : "profile_fra_close.jpeg"
-  bio              : "Assistant Professor at London School of Economics"
+  bio              : "Assistant Professor at the London School of Economics"
   location         : "London, UK"
   employer         :
   pubmed           : 
