@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Francesca Panero, Assistant Professor at the [Department of Statistics of the London School of Economics](https://www.lse.ac.uk/Statistics/People/Dr-Francesca-Panero). In 2022 I obtained a PhD in Statistics from the [University of Oxford](http://www.stats.ox.ac.uk).
+Hello! I am Francesca Panero, Assistant Professor at the [Department of Statistics of the London School of Economics](https://www.lse.ac.uk/Statistics/People/Dr-Francesca-Panero). In 2022 I obtained a PhD in Statistics from the [University of Oxford](http://www.stats.ox.ac.uk). My life is split between London and Rome.
 
 In terms of research, so far I have worked on **Bayesian models** for a couple of applications: **complex networks** and **disclosure risk assessment** (privacy stuff). I have also published a work on **fair machine learning** (well, mostly generalised linear models).
 
-Contact me at *f [dot] panero [at] lse.ac.uk*
+* Contact me at *f [dot] panero [at] lse.ac.uk*
