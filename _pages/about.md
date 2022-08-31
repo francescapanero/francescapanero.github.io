@@ -14,6 +14,6 @@ Before the PhD, I have spent quite some time (BSc and MSc) in the [Department of
 
 In terms of research, so far I have worked on **Bayesian models** for a couple of applications: **complex networks** and **disclosure risk assessment** (privacy stuff). I have also published a work on **fair machine learning** (well, mostly generalised linear models).
 
-I live in London, but you will very often find me in Rome.
+I live in London, but you will *often* find me in Rome.
 
-* Contact me at *f [dot] panero [at] lse.ac.uk*
+* Contact me at **f [dot] panero [at] lse.ac.uk**
