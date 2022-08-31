@@ -5,7 +5,7 @@ permalink: /publication/fair_ridge
 authors: 'Marco Scutari, Francesca Panero, Manuel Proissl'
 excerpt: 'In this paper we present a general framework for estimating regression models subject to a user-defined level of fairness. We do that using ridge regression, which is flexible, has already tons of literature and in general simplifies a lot the estimation.'
 date: 2021-04-01
-venue: 'arXiv'
+venue: 'Statistics and Computing, to appear'
 link: 'https://arxiv.org/abs/2105.13817.pdf'
 ---
 
