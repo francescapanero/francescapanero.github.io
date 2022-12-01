@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/sparsity_graphex
 authors: 'François Caron, Francesca Panero and Judith Rousseau'
 excerpt: 'This paper investigates properties of the class of graphs based on exchangeable point processes. We talk a lot about sparsity levels, degree distributions (power-law), positive clustering coefficients and central limit theorems. And we show how these properties hold for many many models.'
-date: 2021-05-27
-venue: 'arXiv'
+date: 2022-10-28
+venue: 'Published in Advances of Applied Probability, to appear'
 link: 'https://arxiv.org/abs/1708.03120.pdf'
 ---
 
