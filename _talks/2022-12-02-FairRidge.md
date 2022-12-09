@@ -1,0 +1,11 @@
+---
+title: "Achieving fairness with a simple ridge penalty"
+collection: talks
+type: "Talk"
+permalink: /talks/2022-12-02-FairRidge
+venue: "University of Oxford, Department of Statistics"
+date: 2022-12-02
+location: "Oxford, United Kingdom"
+link: https://francescapanero.github.io/files/Academic CV Francesca Panero.pdf
+---
+
