@@ -3,11 +3,8 @@ title: "Achieving Fairness with a Simple Ridge Penalty"
 collection: publications
 permalink: /publication/fair_ridge
 authors: 'Marco Scutari, Francesca Panero, Manuel Proissl'
-excerpt: 'In this paper we present a general framework for estimating regression models subject to a user-defined level of fairness. We do that using ridge regression, which is flexible, has already tons of literature and in general simplifies a lot the estimation.'
+excerpt: 'In this paper we present a general framework for estimating regression models subject to a user-defined level of fairness. We do that using ridge regression, which is flexible, has already tons of literature and in general simplifies a lot the estimation. [See paper here](https://link.springer.com/article/10.1007/s11222-022-10143-w)'
 date: 2022-08-31
 venue: 'Statistics and Computing'
 link: 'https://link.springer.com/article/10.1007/s11222-022-10143-w'
 ---
-
-
-[See paper here](https://link.springer.com/article/10.1007/s11222-022-10143-w)
