@@ -13,7 +13,9 @@ Hello! I am Francesca Panero, Assistant Professor at the [Department of Statisti
 In 2022 I obtained a PhD in Statistics from the [University of Oxford](http://www.stats.ox.ac.uk).
 Before the PhD, I spent quite some time (BSc and MSc) at the [Department of Mathematics of the University of Turin](https://dipmath.campusnet.unito.it/do/home.pl) and at [Collegio Carlo Alberto](https://www.carloalberto.org).
 
-I live in London, but you will *often* find me in Rome. You can contact me at **f [dot] panero [at] lse.ac.uk**
+I live in London, but you will *often* find me in Rome. 
+
+You can contact me at **f [dot] panero [at] lse.ac.uk**
 
 <br>
 
