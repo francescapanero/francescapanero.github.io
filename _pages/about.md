@@ -36,5 +36,5 @@ If you are interested in **doing a PhD with me**, please do get in touch specify
 
 Finally, where can you find me in the next few months?
 * In May 2024, I will present my research at the [S3RI](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at the University of Southampton, and the [Statistics](https://www.stats.ox.ac.uk) seminars at the University of Oxford.
-* In June 2024, I will be speaking at the [ISBA Satellite workshop in Lugano](https://www.usi.ch/it/feeds/25999) and present a poster at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice.
+* In June/July 2024, I will be speaking at the [ISBA Satellite workshop in Lugano](https://www.usi.ch/it/feeds/25999) and present a poster at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice.
 * In September 2024, I will present my work at the [BIRS](http://www.birs.ca) workshop "Frontiers of Bayesian Inference and Data Science" in Oaxaca.
