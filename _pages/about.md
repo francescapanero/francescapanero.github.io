@@ -36,4 +36,5 @@ If you are interested in **doing a PhD with me**, please do get in touch specify
 
 Finally, where can you find me in the next few months?
 * In June/July 2024, I will be speaking at the [ISBA Satellite workshop in Lugano](https://www.usi.ch/it/feeds/25999) and present a poster and a talk at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice.
+* In July 2024, I will be speaking at the [Design and Analysis of Networked Experiments](https://vkstats.github.io/dane2024/) workshop at King's College London.
 * In September 2024, I will present my work at the [BIRS](http://www.birs.ca) workshop "Frontiers of Bayesian Inference and Data Science" in Oaxaca, Mexico.
