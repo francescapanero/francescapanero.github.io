@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Francesca Panero, Assistant Professor (RTT) in Statistics at the [Department of Methods and Models for Economics, Territory and Finance (MEMOTEF) at Sapienza University, Rome](https://web.uniroma1.it/memotef/en). Up until May 2024, I was an Assistant Professor at the [Department of Statistics of the London School of Economics](https://www.lse.ac.uk/Statistics/People/Dr-Francesca-Panero). I am also affiliate of the [Data Science Institute (LSE)](https://www.lse.ac.uk/DSI) and the [Grantham Research Institute on Climate Change and the Environment (LSE)](https://www.lse.ac.uk/granthaminstitute/). 
+Hello! I am Francesca Panero, Assistant Professor (RTT) in Statistics at the Department of Methods and Models for Economics, Territory and Finance ([MEMOTEF](https://web.uniroma1.it/memotef/en)) at Sapienza University, Rome, and a Visiting Fellow at the [Department of Statistics](https://www.lse.ac.uk/Statistics/People/Dr-Francesca-Panero) of the London School of Economics and Political Science where, up until May 2024, I was an Assistant Professor. At LSE, I am also affiliate of the [Data Science Institute](https://www.lse.ac.uk/DSI) and the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/). 
 
 In 2022 I obtained a PhD in Statistics from the [University of Oxford](http://www.stats.ox.ac.uk).
 Before the PhD, I spent quite some time (BSc and MSc) at the [Department of Mathematics of the University of Turin](https://dipmath.campusnet.unito.it/do/home.pl) and at [Collegio Carlo Alberto](https://www.carloalberto.org).
