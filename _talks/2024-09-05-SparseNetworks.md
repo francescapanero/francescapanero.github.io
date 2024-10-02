@@ -1,5 +1,5 @@
 ---
-title: "Modelling sparse networks with Bayesian nonparametrics"
+title: "Modelling sparse networks with Bayesian nonparametrics (video)"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-09-05-SparseNetworks
