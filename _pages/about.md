@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Francesca Panero, Assistant Professor (RTT) in Statistics at the Department of Methods and Models for Economics, Territory and Finance ([MEMOTEF) at Sapienza University, Rome](https://web.uniroma1.it/memotef/en), and a Visiting Fellow at the [Department of Statistics of the London School of Economics and Political Science](https://www.lse.ac.uk/statistics) where, up until May 2024, I was an Assistant Professor. At LSE, I am also affiliate of the [Data Science Institute](https://www.lse.ac.uk/DSI) and the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/).
+Hello! I am Francesca Panero, Assistant Professor (RTT) in Statistics at the Department of Methods and Models for Economics, Territory and Finance ([MEMOTEF) at Sapienza University, Rome](https://web.uniroma1.it/memotef/en), and a Visiting Fellow at the [Department of Statistics of the London School of Economics and Political Science](https://www.lse.ac.uk/statistics) where, up until May 2024, I was an Assistant Professor. At LSE, I am also affiliate of the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/).
 
 In 2022 I obtained a PhD in Statistics from the [University of Oxford](http://www.stats.ox.ac.uk).
 Before the PhD, I spent quite some time (BSc and MSc) at the Department of Mathematics of the [University of Turin](https://dipmath.campusnet.unito.it/do/home.pl) and at [Collegio Carlo Alberto](https://www.carloalberto.org).
@@ -18,6 +18,12 @@ I live in Rome, but you might find me in London too!
 You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] panero [at] lse.ac.uk**
 
 <br>
+
+## News
+
+To all the [j-ISBA](https://j-isba.github.io) members out there, I am running for **Chair Elect** at the  elections which will take place this October. j-ISBA (and ISBA) have given me a lot in these years, and with your support I will try to return all this good to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. 
+
+The dates and link for voting will be out soon. Thank you!
 
 ## Projects
 
@@ -31,10 +37,3 @@ On the educational side, I am part of the core team of [GENIAL](https://lse-dsi.
 If you are interested in **doing a PhD with me**, please do get in touch specifying which of my areas of research would be of interest to you.
 
 <br>
-
-## News
-
-Finally, where can you find me in the next few months?
-* In June/July 2024, I will be speaking at the [ISBA Satellite workshop in Lugano](https://www.usi.ch/it/feeds/25999) and present a poster and a talk at the [ISBA World Meeting](https://www.unive.it/web/en/2208/home) in Venice.
-* In July 2024, I will be speaking at the [Design and Analysis of Networked Experiments](https://vkstats.github.io/dane2024/) workshop at King's College London.
-* In September 2024, I will present my work at the [BIRS](http://www.birs.ca) workshop "Frontiers of Bayesian Inference and Data Science" in Oaxaca, Mexico.
