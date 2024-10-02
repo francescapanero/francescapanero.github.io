@@ -1,5 +1,5 @@
 ---
-title: "Achieving fairness with a simple ridge penalty"
+title: "Achieving fairness with a simple ridge penalty (slides)"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-12-02-FairRidge
