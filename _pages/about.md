@@ -25,6 +25,8 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 - 🎤📈👩‍🏫 On **November 20, 6:30pm**, I will participate to the **[LSE Public Lecture: "Data visualisation: alive visual words"](https://www.lse.ac.uk/Events/2024/11/202411201830/Data-visualisation-alive-visual-words?_gl=1*1cxa9xu*_gcl_aw*R0NMLjE3MjE3MjI3MDQuQ2p3S0NBandxZjIwQmhCd0Vpd0F0N2R0ZFpZOGxFcGVXc25LekZST1JaTS0xMGUxa3FUVXMybGlvSWY3NWlPUnozbThZNnBOWDVrcVdCb0NUQklRQXZEX0J3RQ..*_gcl_au*NTg1MjEwNjQzLjE3MTg2OTkwODI.*_ga*MTYwODM3MTA0LjE3MDI5ODI4MTc.*_ga_LWTEVFESYX*MTcyNDY1NDAyNy4xODUuMS4xNzI0NjU0NDE0LjU1LjAuMA..)** by Federica Fragapane (she's an infographic designer and she does [some really cool work](https://www.behance.net/FedericaFragapane)). I am excited to be a discussant, together with Marta Foresti (LAGO). You can join in person (there will be snacks!), but also online.
 
+<br>
+
 ## Projects
 
 In terms of research, I mostly work on **Bayesian models** in the following directions: **complex networks**, **disclosure risk assessment** (privacy stuff) and **Gaussian process modelling**. I am also exploring **fair machine learning**. At the moment, I am working on the following projects:
