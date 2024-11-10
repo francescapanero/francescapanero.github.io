@@ -13,7 +13,7 @@ Hello! I am Francesca Panero, Assistant Professor (RTT) in Statistics at the Dep
 In 2022 I obtained a PhD in Statistics from the [University of Oxford](http://www.stats.ox.ac.uk).
 Before the PhD, I spent quite some time (BSc and MSc) at the Department of Mathematics of the [University of Turin](https://dipmath.campusnet.unito.it/do/home.pl) and at [Collegio Carlo Alberto](https://www.carloalberto.org).
 
-I live in Rome, but you might find me in London too! 
+I live in Rome 🤌, but you might find me in London too 💂‍♀️! 
 
 You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] panero [at] lse.ac.uk**
 
@@ -21,9 +21,9 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
-To all the [j-ISBA](https://j-isba.github.io) members out there, I am running for **Chair Elect** at the  elections which will take place this October. j-ISBA (and ISBA) have given me a lot in these years, and with your support I will try to return all this good to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. 
+- ⚠️🗳️ To all the **[j-ISBA](https://j-isba.github.io)** members out there, I am running for **Chair Elect** at the  elections (which are closing on **Nov 15**! You can find the link to vote in your email). j-ISBA (and ISBA) have given me a lot in these years, and with your support I will try to return all this good to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people.
 
-The dates and link for voting will be out soon. Thank you!
+- 🎤📈👩‍🏫 On **November 20, 6:30pm**, I will participate to the **[LSE Public Lecture: "Data visualisation: alive visual words"](https://www.lse.ac.uk/Events/2024/11/202411201830/Data-visualisation-alive-visual-words?_gl=1*1cxa9xu*_gcl_aw*R0NMLjE3MjE3MjI3MDQuQ2p3S0NBandxZjIwQmhCd0Vpd0F0N2R0ZFpZOGxFcGVXc25LekZST1JaTS0xMGUxa3FUVXMybGlvSWY3NWlPUnozbThZNnBOWDVrcVdCb0NUQklRQXZEX0J3RQ..*_gcl_au*NTg1MjEwNjQzLjE3MTg2OTkwODI.*_ga*MTYwODM3MTA0LjE3MDI5ODI4MTc.*_ga_LWTEVFESYX*MTcyNDY1NDAyNy4xODUuMS4xNzI0NjU0NDE0LjU1LjAuMA..)** by Federica Fragapane (she's an infographic designer and she does [some really cool work](https://www.behance.net/FedericaFragapane)). I am excited to be a discussant, together with Marta Foresti (LAGO). You can join in person (there will be snacks!), but also online.
 
 ## Projects
 
