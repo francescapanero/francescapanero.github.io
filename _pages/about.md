@@ -21,9 +21,13 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
-- ⚠️🗳️ To all the **[j-ISBA](https://j-isba.github.io)** members out there, I am running for **Chair Elect** at the  elections (which are closing on **Nov 15**! You can find the link to vote in your email). j-ISBA (and ISBA) have given me a lot in these years, and with your support I will try to return all this good to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people.
+- 🥳 I have been elected as **[j-ISBA](https://j-isba.github.io) Chair Elect** for 2025-2026! This is extremely exciting and I am looking forward to start working with the other board members to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. Thanks for voting me!
 
-- 🎤📈👩‍🏫 On **November 20, 6:30pm**, I will participate to the **[LSE Public Lecture: "Data visualisation: alive visual words"](https://www.lse.ac.uk/Events/2024/11/202411201830/Data-visualisation-alive-visual-words?_gl=1*1cxa9xu*_gcl_aw*R0NMLjE3MjE3MjI3MDQuQ2p3S0NBandxZjIwQmhCd0Vpd0F0N2R0ZFpZOGxFcGVXc25LekZST1JaTS0xMGUxa3FUVXMybGlvSWY3NWlPUnozbThZNnBOWDVrcVdCb0NUQklRQXZEX0J3RQ..*_gcl_au*NTg1MjEwNjQzLjE3MTg2OTkwODI.*_ga*MTYwODM3MTA0LjE3MDI5ODI4MTc.*_ga_LWTEVFESYX*MTcyNDY1NDAyNy4xODUuMS4xNzI0NjU0NDE0LjU1LjAuMA..)** by Federica Fragapane (she's an infographic designer and she does [some really cool work](https://www.behance.net/FedericaFragapane)). I am excited to be a discussant, together with Marta Foresti (LAGO). You can join in person (there will be snacks!), but also online.
+- 🇫🇷 I will be giving a contributed talk about qunatifying uncertainty in fair ML models at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in December in Nice.
+
+- 🇬🇧 On January 9-10 I'll be in Lancaster at the [STOR-i](https://www.lancaster.ac.uk/stor-i/about-us/stor-i-cdt/) CDT annual workshop talking about Gaussian processes and food insecurity.
+ 
+- 🎤 I was recently a discussant at the **[LSE Public Lecture: "Data visualisation: alive visual words"](https://www.lse.ac.uk/Events/2024/11/202411201830/Data-visualisation-alive-visual-words?_gl=1*1cxa9xu*_gcl_aw*R0NMLjE3MjE3MjI3MDQuQ2p3S0NBandxZjIwQmhCd0Vpd0F0N2R0ZFpZOGxFcGVXc25LekZST1JaTS0xMGUxa3FUVXMybGlvSWY3NWlPUnozbThZNnBOWDVrcVdCb0NUQklRQXZEX0J3RQ..*_gcl_au*NTg1MjEwNjQzLjE3MTg2OTkwODI.*_ga*MTYwODM3MTA0LjE3MDI5ODI4MTc.*_ga_LWTEVFESYX*MTcyNDY1NDAyNy4xODUuMS4xNzI0NjU0NDE0LjU1LjAuMA..)**. You can read more about it in my [blog post]([https://francescapanero.github.io](https://francescapanero.github.io/posts/2024/12/data-visualisation/)) (I am writing something there! Incredible!) or watch the [YouTube recording](https://www.youtube.com/watch?v=13aIeZdv5RI).
 
 <br>
 
