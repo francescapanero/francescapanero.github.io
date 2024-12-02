@@ -23,7 +23,7 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 - 🥳 I have been elected as **[j-ISBA](https://j-isba.github.io) Chair Elect** for 2025-2026! This is extremely exciting and I am looking forward to start working with the other board members to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. Thanks for voting me!
 
-- 🇫🇷 I will be giving a contributed talk about qunatifying uncertainty in fair ML models at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in December in Nice.
+- 🇫🇷 I will be giving a contributed talk about quantifying uncertainty in fair ML models at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in December in Nice. I am thankful to IMS for the junior research travel grant, without whom I would not be able to attend.
 
 - 🇬🇧 On January 9-10 I'll be in Lancaster at the [STOR-i](https://www.lancaster.ac.uk/stor-i/about-us/stor-i-cdt/) CDT annual workshop talking about Gaussian processes and food insecurity.
  
