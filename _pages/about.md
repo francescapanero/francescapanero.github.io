@@ -21,15 +21,15 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
-- 🇨🇭 Very proud to share that I am the 2025 Visiting Lecturer of the Faculty of Informatics at the University of the Italian Switzerland (USI), Lugano. I'll spend some time in the department this year, collaborating with [Ernst Wit](https://search.usi.ch/it/persone/83636b7ab2950f852dbd345e9220c266/wit-ernst-jan-camiel), [Marco Scutari](https://www.bnlearn.com/about/) and [Deborah Sulem](https://dsulem.github.io).
+- 🇨🇭 (Apr 25) Very proud to share that I am the 2025 Visiting Lecturer of the Faculty of Informatics at the University of the Italian Switzerland (USI), Lugano. I'll spend some time in the department this year, collaborating with [Ernst Wit](https://search.usi.ch/it/persone/83636b7ab2950f852dbd345e9220c266/wit-ernst-jan-camiel), [Marco Scutari](https://www.bnlearn.com/about/) and [Deborah Sulem](https://dsulem.github.io).
 
-- 🥳 I have been elected as **[j-ISBA](https://j-isba.github.io) Chair Elect** for 2025-2026! This is extremely exciting and I am looking forward to start working with the other board members to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. Thanks for voting me!
+- 🥳 (Jan 25) I have been elected as **[j-ISBA](https://j-isba.github.io) Chair Elect** for 2025-2026! This is extremely exciting and I am looking forward to start working with the other board members to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. Thanks for voting me!
 
-- 🇫🇷 I will be giving a contributed talk about quantifying uncertainty in fair ML models at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in December in Nice. I am thankful to IMS for the junior research travel grant, without whom I would not be able to attend.
+- 🇬🇧 (Jan 25) On January 9-10 I'll be in Lancaster at the [STOR-i](https://www.lancaster.ac.uk/stor-i/about-us/stor-i-cdt/) CDT annual workshop talking about Gaussian processes and food insecurity.
 
-- 🇬🇧 On January 9-10 I'll be in Lancaster at the [STOR-i](https://www.lancaster.ac.uk/stor-i/about-us/stor-i-cdt/) CDT annual workshop talking about Gaussian processes and food insecurity.
+- 🇫🇷 (Dec 24) I will be giving a contributed talk about quantifying uncertainty in fair ML models at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in December in Nice. I am thankful to IMS for the junior research travel grant, without whom I would not be able to attend.
  
-- 🎤 I was recently a discussant at the **[LSE Public Lecture: "Data visualisation: alive visual words"](https://www.lse.ac.uk/Events/2024/11/202411201830/Data-visualisation-alive-visual-words?_gl=1*1cxa9xu*_gcl_aw*R0NMLjE3MjE3MjI3MDQuQ2p3S0NBandxZjIwQmhCd0Vpd0F0N2R0ZFpZOGxFcGVXc25LekZST1JaTS0xMGUxa3FUVXMybGlvSWY3NWlPUnozbThZNnBOWDVrcVdCb0NUQklRQXZEX0J3RQ..*_gcl_au*NTg1MjEwNjQzLjE3MTg2OTkwODI.*_ga*MTYwODM3MTA0LjE3MDI5ODI4MTc.*_ga_LWTEVFESYX*MTcyNDY1NDAyNy4xODUuMS4xNzI0NjU0NDE0LjU1LjAuMA..)**. You can read more about it in my [blog post](https://francescapanero.github.io/posts/2024/12/data-visualisation/) (I am writing something there! Incredible!) or watch the [YouTube recording](https://www.youtube.com/watch?v=13aIeZdv5RI).
+- 🎤 (Nov 24) It was cool to be a discussant at the **[LSE Public Lecture: "Data visualisation: alive visual words"](https://www.lse.ac.uk/Events/2024/11/202411201830/Data-visualisation-alive-visual-words?_gl=1*1cxa9xu*_gcl_aw*R0NMLjE3MjE3MjI3MDQuQ2p3S0NBandxZjIwQmhCd0Vpd0F0N2R0ZFpZOGxFcGVXc25LekZST1JaTS0xMGUxa3FUVXMybGlvSWY3NWlPUnozbThZNnBOWDVrcVdCb0NUQklRQXZEX0J3RQ..*_gcl_au*NTg1MjEwNjQzLjE3MTg2OTkwODI.*_ga*MTYwODM3MTA0LjE3MDI5ODI4MTc.*_ga_LWTEVFESYX*MTcyNDY1NDAyNy4xODUuMS4xNzI0NjU0NDE0LjU1LjAuMA..)**. You can read more about it in my [blog post](https://francescapanero.github.io/posts/2024/12/data-visualisation/) (I am writing something there! Incredible!) or watch the [YouTube recording](https://www.youtube.com/watch?v=13aIeZdv5RI).
 
 <br>
 
