@@ -21,6 +21,8 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
+- 🇨🇭 Very proud to share that I am the 2025 Visiting Lecturer of the Faculty of Informatics at the University of the Italian Switzerland (USI), Lugano. I'll spend some time in the department this year, collaborating with [Ernst Wit](https://search.usi.ch/it/persone/83636b7ab2950f852dbd345e9220c266/wit-ernst-jan-camiel), [Marco Scutari](https://www.bnlearn.com/about/) and [Deborah Sulem](https://dsulem.github.io).
+
 - 🥳 I have been elected as **[j-ISBA](https://j-isba.github.io) Chair Elect** for 2025-2026! This is extremely exciting and I am looking forward to start working with the other board members to make our Bayesian word an even more inclusive place where to foster collaborations and meet great people. Thanks for voting me!
 
 - 🇫🇷 I will be giving a contributed talk about quantifying uncertainty in fair ML models at [ICSDS 2024](https://sites.google.com/view/ims-icsds2024/) in December in Nice. I am thankful to IMS for the junior research travel grant, without whom I would not be able to attend.
