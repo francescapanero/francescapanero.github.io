@@ -21,7 +21,7 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
-- 🇯🇵 Currently organising BAYSM 2026, June 26-27 in Chiba, Japan. Register [here][https://baysm2026.github.io]!
+- 🇯🇵 Currently organising BAYSM 2026, June 26-27 in Chiba, Japan. Register [here](https://baysm2026.github.io)!
 
 - 🇮🇹🇯🇵 (Mar-Jun 2026) Looking forward to attending [SDS](https://sds2026.sis-statistica.it) (Caserta) and [ISBA](https://isba2026.github.io) (Nagoya) to show my work on Bayesian fairness.
 
