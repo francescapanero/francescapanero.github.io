@@ -21,7 +21,9 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
-- 🇮🇹🇯🇵 (Mar-Jun 2026) Looking forward to attending [SDS](https://sds2026.sis-statistica.it) (Caserta) and the [Italian Meeting on Probability and Mathematical Statistics](https://probabilitypalermo2026.unipa.it) (Palermo) to talk about how to use ANOVA kernels to perform food security predictions, and [ISBA](https://isba2026.github.io) (Nagoya) to show my work on Bayesian fairness.
+- 🇯🇵 Currently organising BAYSM 2026, June 26-27 in Chiba, Japan. Register [here][https://baysm2026.github.io]!
+
+- 🇮🇹🇯🇵 (Mar-Jun 2026) Looking forward to attending [SDS](https://sds2026.sis-statistica.it) (Caserta) and [ISBA](https://isba2026.github.io) (Nagoya) to show my work on Bayesian fairness.
 
 - 👶 (Dec 25 - present) I am on maternity leave until summer 2026 and therefore slower with replies. For questions about the exam of Probability and Stochastic Processes, please refer to andrea.tancredi@uniroma1.it; for Computational Tools for Finance: marco.geraci@uniroma1.it
 
