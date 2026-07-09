@@ -21,11 +21,17 @@ You can contact me at **francesca [dot] panero [at] uniroma1.it** or **f [dot] p
 
 ## News
 
-- 🇯🇵 Currently organising BAYSM 2026, June 26-27 in Chiba, Japan. Register [here](https://baysm2026.github.io)!
+- 🇮🇪 (Dec 26) I will attend the workshop of [Bayesian Methods for the Social Sciences](https://bayesforshs3.sciencesconf.org/program/details) and talk about Bayesian fairness.
 
-- 🇮🇹🇯🇵 (Mar-Jun 2026) Looking forward to attending [SDS](https://sds2026.sis-statistica.it) (Caserta) and [ISBA](https://isba2026.github.io) (Nagoya) to show my work on Bayesian fairness.
+- 🇯🇵 (Jun-Jul 26) It was great to organise [BAYSM 2026](https://baysm2026.github.io) and present my work on dynamic networks at [ISBA](https://isba2026.github.io) (Nagoya). Travelling with a baby to the other side of the world ✅. The baby handled it much better than me!
 
-- 👶 (Dec 25 - present) I am on maternity leave until summer 2026 and therefore slower with replies. For questions about the exam of Probability and Stochastic Processes, please refer to andrea.tancredi@uniroma1.it; for Computational Tools for Finance: marco.geraci@uniroma1.it
+- 🌍 (May 26) I became an [Academic Responsible of International Mobility (RAM)](https://www.uniroma1.it/it/pagina/facolta-di-economia-coordinatori-e-responsabili-accademici-mobilita-internazionale) in the Faculty of Economics, Sapienza.
+
+- 📝 (Apr 26) The preprint of our new work on dynamic sparse networks with overlapping communities [is out](https://arxiv.org/pdf/2512.10717)! Joint work with [X. Miscouridou](https://www.misxenia.com) and A. Laos (University of Cyprus).
+
+- 🇮🇹 (Mar 26) I attended [SDS](https://sds2026.sis-statistica.it) in Caserta and talked about GP forecasting for food security.
+
+- 👶 (Dec 25 - May 26) On maternity leave until summer 2026 and therefore slower with replies. For questions about the exam of Probability and Stochastic Processes, please refer to andrea.tancredi@uniroma1.it; for Computational Tools for Finance: marco.geraci@uniroma1.it
 
 - 🇺🇸 (Jun 25) It was great to speak at [BNP](https://bnp14.org)!
 
